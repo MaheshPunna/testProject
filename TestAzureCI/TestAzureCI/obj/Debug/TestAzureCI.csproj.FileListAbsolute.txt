@@ -1,0 +1,1 @@
+E:\Test Projects\TestAzureCI\TestAzureCI\bin\Debug\TestAzureCI.exe.config
